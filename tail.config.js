@@ -6,6 +6,7 @@ module.exports = {
             colors: {
                 'base500': 'var(--base-gray-500)',
                 'main-text': 'var(--main-text-color)',
+                'purple': 'var(--purple)',
             }
         }
     },
